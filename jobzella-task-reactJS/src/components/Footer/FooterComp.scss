@@ -1,0 +1,37 @@
+@import "../../scss/abstracts/variables";
+
+.footer {
+  padding: 50px 0;
+  color: $darkGrey-color;
+  h6 {
+    font-weight: bold;
+    margin: 0;
+  }
+
+  ul li a {
+    font-size: 12px;
+    color: $Grey-color;
+  }
+  .download-app {
+    h6 {
+      font-size: 18px;
+    }
+    p {
+      font-size: 12px;
+      margin: 0;
+    }
+    .stors {
+      display: flex;
+      justify-content: center;
+      img {
+        width: 130px;
+        height: 55px;
+      }}
+      select {
+        width: 250px;
+        margin: 10px auto;
+        background: transparent;
+      }
+    
+  }
+}

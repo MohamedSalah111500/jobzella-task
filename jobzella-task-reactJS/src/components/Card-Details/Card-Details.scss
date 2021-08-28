@@ -1,0 +1,12 @@
+@import "../Card/CardComp.scss";
+.card-details{
+    border-radius: 0;
+    padding:  20px;
+    min-height: 800px;
+    img{
+        margin-top: 20px
+    }
+    .card-footer{
+        border-top:0
+    }
+}
